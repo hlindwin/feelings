@@ -4,13 +4,23 @@ hey
 
 
 
+Profile - you need this
+web: python manage.py runserver 0.0.0.0:5000
+
+pip freeze > requirements.txt
 
 
+if you lock yourself out of a file, change to the root directory and use this command
+$: cd
+$: sudo chown -R ubuntu *
 
 
-
-
-
+heroku
+heroku createtable
+git remote -v    ---to see where you are going to push to
+connect to right project heroku git:remote -a thawing-inlet-61413
+git push heroku master
+https://devcenter.heroku.com/articles/git#creating-a-heroku-remote
 
 
 
