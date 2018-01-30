@@ -5,7 +5,7 @@ It uses python, flask, sqlite.
 
 If you want to see what it looks like, it sits here: https://desolate-escarpment-88171.herokuapp.com/
 
-The rest of this is notes for me (and maybe you?)
+The rest of this README.md is notes for me (and maybe you?)
  
  
  
@@ -19,7 +19,7 @@ The rest of this is notes for me (and maybe you?)
    
     
 
-Profile - you need this
+Procfile - you need this
 web: python manage.py runserver 0.0.0.0:5000
 
 pip freeze > requirements.txt
