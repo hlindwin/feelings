@@ -1,5 +1,10 @@
 
-hey
+hey, this is my first webapp.
+
+It uses python, flask, sqlite.
+
+If you want to see what it looks like, it sits here: https://desolate-escarpment-88171.herokuapp.com/
+
 
 
 
